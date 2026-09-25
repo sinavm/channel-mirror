@@ -1,2 +1,5 @@
 # channel-mirror
-آرشیو کانال تلگرام روی GitHub Pages برای زمان فیلتر
+
+آرشیو ساده صفحه عمومی کانال تلگرام (`t.me/s/...`) روی GitHub Pages.
+
+منبع را در `channels.json` بگذار.
